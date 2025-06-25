@@ -1,0 +1,15 @@
+/workspaces/RustyBrowser/target/debug/deps/libmarkup5ever-fca60626cfb196c2.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.11.0/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.11.0/data/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.11.0/interface/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.11.0/interface/tree_builder.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.11.0/serialize.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.11.0/util/buffer_queue.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.11.0/util/smallcharset.rs /workspaces/RustyBrowser/target/debug/build/markup5ever-d976e45328bd547b/out/generated.rs /workspaces/RustyBrowser/target/debug/build/markup5ever-d976e45328bd547b/out/named_entities.rs
+
+/workspaces/RustyBrowser/target/debug/deps/markup5ever-fca60626cfb196c2.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.11.0/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.11.0/data/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.11.0/interface/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.11.0/interface/tree_builder.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.11.0/serialize.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.11.0/util/buffer_queue.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.11.0/util/smallcharset.rs /workspaces/RustyBrowser/target/debug/build/markup5ever-d976e45328bd547b/out/generated.rs /workspaces/RustyBrowser/target/debug/build/markup5ever-d976e45328bd547b/out/named_entities.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.11.0/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.11.0/data/mod.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.11.0/interface/mod.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.11.0/interface/tree_builder.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.11.0/serialize.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.11.0/util/buffer_queue.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.11.0/util/smallcharset.rs:
+/workspaces/RustyBrowser/target/debug/build/markup5ever-d976e45328bd547b/out/generated.rs:
+/workspaces/RustyBrowser/target/debug/build/markup5ever-d976e45328bd547b/out/named_entities.rs:
+
+# env-dep:OUT_DIR=/workspaces/RustyBrowser/target/debug/build/markup5ever-d976e45328bd547b/out
